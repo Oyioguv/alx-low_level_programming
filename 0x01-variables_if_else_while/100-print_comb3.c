@@ -10,11 +10,13 @@ int main(void)
 	int f = '0';
 	int s = '0';
 
-	while (f <= '9)
+	while (f <= '9')
 	{
+	}
 		s = '0'
 		while (f <= '9')
 		{
+		}
 			if (s == f)
 			{
 			}
@@ -23,6 +25,7 @@ int main(void)
 			}
 			else
 			{
+			}
 putchar(f);
 
 putchar(s);
