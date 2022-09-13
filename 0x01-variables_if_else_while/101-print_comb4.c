@@ -20,9 +20,8 @@ int main(void)
 			while (t <= '9')
 			{
 				if (f == s || f == t || s == t)
-				{
-				}
-				else
+				{				}
+				else if (f < s || f < t || s < t)
 				{
 		putchar(f);
 
