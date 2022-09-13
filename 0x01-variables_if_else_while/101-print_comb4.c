@@ -23,6 +23,10 @@ int main(void)
 				{				}
 				else if (f < s || f < t || s < t)
 				{
+				}
+				else
+				{
+
 		putchar(f);
 
 		putchar(s);
